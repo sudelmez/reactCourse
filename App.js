@@ -2,7 +2,7 @@ import React from "react"
 import { View ,StyleSheet } from "react-native"
 import CurrentWeather from "./src/components/currentweather.js"
 import { QueryClient, QueryClientProvider } from 'react-query';
-import Example from '/Users/sudeolmez/Desktop/react/myfirstapp/src/reactquery/query.js';
+import Example from '/Users/sudeolmez/Desktop/reactCourse/src/components/reactquery/query.js';
 
 const queryClient = new QueryClient()
 
